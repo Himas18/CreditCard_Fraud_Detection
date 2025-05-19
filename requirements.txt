@@ -1,6 +1,6 @@
 streamlit
-pandas==1.5.3
-numpy
+pandas>=1.6.0
+numpy>=1.25.0
 scikit-learn==1.2.2
 imbalanced-learn==0.10.1
 xgboost>=1.7.5
