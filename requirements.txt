@@ -1,6 +1,6 @@
 streamlit==1.25.0
-pandas>=1.5.3,<2.0.0
-numpy>=1.25.0,<2.0.0
-xgboost>=1.7.5
-shap>=0.41.0
-scikit-learn>=1.2.0
+pandas==1.5.3
+numpy==1.25.2
+xgboost==1.7.6
+shap==0.41.0
+scikit-learn==1.4.2
