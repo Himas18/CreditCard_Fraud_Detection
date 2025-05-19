@@ -1,6 +1,7 @@
 streamlit==1.25.0
-pandas==1.5.3
+pandas==2.0.3
 numpy==1.25.2
 xgboost==1.7.6
 shap==0.41.0
 scikit-learn==1.4.2
+python-3.10
